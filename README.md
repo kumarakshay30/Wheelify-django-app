@@ -1,10 +1,10 @@
-# Wheelify - Vehicle Listing Platform
+# Wheelify - Vehicle Sell/Buy Platform
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-Wheelify is a Django-based web application for listing and browsing vehicles. The platform allows users to create accounts, list vehicles for sale, browse listings, and save their favorite vehicles.
+Wheelify is a Django-based web application for listing and browsing vehicles. The platform allows users to create accounts, list vehicles for sale, browse listings, save their favorite vehicles, and buy that vehicle by directly contact to the owner.
 
 ## Features
 
